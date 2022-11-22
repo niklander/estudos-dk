@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+
+body{
+    background-color:rgb(219, 236, 250);
+}
+
+#div1 > h1{
+    color: rgba(206, 15, 107, 0.584);
+}
+
+.div01 > h1{
+    color: aquamarine;
+}
+
+.tit > h1{
+    color: rgba(50, 50, 104, 0.877);
+}

@@ -1,0 +1,25 @@
+
+
+
+
+html, body{
+    height: 100%;
+    font-family: tahoma;
+}
+
+.lista, .lista2 {
+    list-style-position:inside ;
+    list-style-type: disc;
+}
+
+.lista, .lista2 > li{
+    font-size: 18px;
+    color: green;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.lista .item3, .lista2 .item3{
+
+    color: red;
+}

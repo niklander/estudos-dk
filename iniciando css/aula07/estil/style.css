@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+html, body{
+    height: 100%;
+}
+
+.tipo1{
+    color: #808080;
+}
+
+a.link_{
+    font-size: 30px;
+    }
+    
+.tipo2{
+    font-size: 40px;
+}
+
+

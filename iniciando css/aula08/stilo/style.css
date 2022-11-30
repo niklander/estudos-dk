@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+html, body{
+    height: 100%;
+}
+
+.article{
+    width: 1280px;
+    height: 600px;
+    height: 10%;
+    max-height: 20%;
+    min-height: 40%;
+    background-color: red;
+    margin: auto;
+}
